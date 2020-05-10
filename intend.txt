@@ -1,5 +1,0 @@
-aws keys for docker-react-travis-ci
-
-Y7oaex6/oGtzBsi4JGVnPZDa6y4SP58qUSi4WUcg
-
-access id  AKIATMGEPB243GQ2IFN7
